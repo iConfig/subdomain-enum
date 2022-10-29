@@ -8,4 +8,8 @@ python subdomain.py -d domain.com
 
 run python subdomain.py --help  for help
 
+<h3>GET</h3>
+
+git clone https://github.com/iconfig/subdomain-enum
+
 
